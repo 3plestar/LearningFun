@@ -1,4 +1,3 @@
-//importeer de benodigde klassen uit de Java bibliotheek
 import java.awt.*;
 import java.applet.*;
 
