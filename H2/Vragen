@@ -1,0 +1,15 @@
+Wat is machinetaal?
+Machinetaal is de taal die computers begrijpen. Het bestaat uit eenen en nullen
+
+Welke drie hulpmiddelen heb je nodig om te programmeren?
+Een tekstverwerker om de broncode in te schrijven, een compiler om de broncode te vertalen in machinetaal
+en een linker die benodigde code haalt uit een klassebibliotheek.
+
+Hoe herken je opdrachten in de broncode?
+Achter een opdracht staat een puntkomma;
+
+Waartoe dienen de import-opdrachten?
+Hiermee importeer je klassen uit de klassenbibliotheek, zodat je bepaalde dingen niet zelf hoeft te schrijven.
+
+Wat is een methode?
+Binnen een methode kunnen acties uitgevoerd worden.
