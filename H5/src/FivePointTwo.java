@@ -35,5 +35,6 @@ public class FivePointTwo extends Applet {
 }
 
 /*
-Ik voel me slim door die 120-weight. Ben daar helemaal zelf op gekomen.
+Basishoogte-weight. Heb ik gedaan om de staven van onder naar boven te laten gaan.
+Ik ben er best trots op hoe snel ik eraan dacht om dat te doen.
  */
