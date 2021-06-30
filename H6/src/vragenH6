@@ -1,0 +1,27 @@
+1. Waarom is initialiseren van variabelen noodzakelijk?
+Wanneer ze geinitialiseerd zijn, staan ze vast en kunnen ze gebruikt worden.
+Als je ze niet initialiseerd betekenen de variabelen niets in de code.
+
+2. Waarom is er typecasting noodzakelijk bij de conversie van een double naar een int?
+Omdat er informatie verloren gaat bij conversie van een double naar een int levert dit een foutmelding op.
+Door typecasting wordt een double al als een heel getal gelezen en zal er geen foutmelding komen.
+
+3. Wat is de uitvoer van dit programma? Geef een verklaring.
+Het antwoord is 5.0
+
+Verklaring:
+8+8=16
+16/3=5,3333333...
+Dit wordt afgerond naar 5, omdat het rekenen in int gebeurt
+Het antwoord wordt dan in double omgezet, dus het wordt 5.0
+
+4. In de regel uitkomst = (a + b) / c; laat je de ronde haken weg. De regel ziet er dan als volgt uit:
+uitkomst= a + b / c;
+5. Wat is de uitvoer van dit programma? Geef een verklaring.
+Het antwoord is 11.0
+
+Verklaring:
+8/3=2.66666666...
+Dit wordt afgerond naar 3
+8+3=11
+Het antwoord wordt dan in double omgezet, dus het wordt 11.0
