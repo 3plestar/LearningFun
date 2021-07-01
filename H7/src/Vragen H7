@@ -1,0 +1,13 @@
+    Je kunt in de methode init() van je applet de afmetingen van het scherm bepalen met de methode setSize(int width, int height).
+    Tussen de haakjes wordt aangegeven dat deze methode twee argumenten (of parameters) van het type int verwacht. Je kunt de methode als volgt "aanroepen":
+    Kun je in de Java API (zie web-links) deze methode ergens vinden?
+Ik heb het kunnen vinden in java.awt.Component in java.applet
+
+    In welke klasse wordt deze methode gedefinieerd?
+Component
+
+    Dezelfde klasse heeft een tweede methode met dezelfde naam. Wat is het verschil?
+Er is: setSize(int width, int height)
+En er is: setSize(Dimension d)
+er is weinig vershil tussen de twee, maar degene met dimension kan naar worden verwezen met rezising of new dimension of zo.
+
