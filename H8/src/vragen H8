@@ -1,0 +1,23 @@
+Wat is event-handling?
+Dingen zoals knoppen sturen events uit.
+Event-handling ervoor zorgen dat er iets gebeurt als er een event wordt gedetecteerd.
+
+Wat is een gebruikersinterface?
+een gebruikersinterface is een interface waar een gebuiker iets mee kan.
+De gebruikersinterface maakt interactie tussen de gebruiker en de machine mogelijk.
+
+Waarom moet er voor een knop wel en voor een tekst geen event-handling geprogrammeerd worden?
+Tekst heeft geen event, het staat ergens en dat is het.
+Op een knop kan je drukken, dat is een event.
+En je wil waarschijnlijk dat er iets gebeurt als er op de knop gedrukt wordt,
+dus je hebt event-handling nodig.
+
+Wat is een lege string?
+Een string waar niets in staat.
+Hij ziet er zo uit: ""
+
+Wat is het verschil tussen een tekstvak en een label?
+De gebruiker kan wel schijven in een tekstvak en niet in een label.
+
+Waarom moeten getallen uit een tekstvak altijd geconverteerd worden naar een double of een int?
+Omdat je er anders niet mee kan rekenen.
