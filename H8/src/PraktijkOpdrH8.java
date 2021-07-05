@@ -39,7 +39,7 @@ public class PraktijkOpdrH8 extends Applet {
     }
 
     public void paint(Graphics g){
-        g.drawString("" +awnser, 20, 60);
+        g.drawString("" +awnser,20, 60);
     }
 
     class plusListener implements ActionListener {
